@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.bannar {
+    position:relative;
+    height: 600px;
+    width: 1510px;
+}
+
+.bannar-img {
+    height: 100%;
+    width:100%;
+    overflow: clip;
+}
+
+.bannar-content {
+    position: absolute;
+    color:yellow;
+    top: 0%;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.422);
+
+}   
+.bannar-content span {
+    color:white;
+}
