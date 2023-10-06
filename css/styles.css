@@ -1,0 +1,24 @@
+section{
+    background:whitesmoke;
+    height:auto;
+    border-radius: 8px;
+    padding:18px;
+    border: 1px solid lightgray;
+}
+
+form {
+    height:100%;
+}
+
+label, input, textarea, select {
+    display: block;
+   
+}
+
+#message {
+    resize:none;
+}
+
+.container {
+    margin: 10px 15px;
+}
